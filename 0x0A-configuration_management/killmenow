@@ -1,5 +1,5 @@
 #!/bin/bash
 while [[ true ]]
-do 
+do
 	sleep 2
 done
